@@ -1,7 +1,7 @@
 {
   "name": "geeksfiesta",
   "version": "1.0.0",
-  "description": "A web app for ce 20-24\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001bCE\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cbatch",
+  "description": "A web app for ce 20-24 batch",
   "main": "pro.js",
   "scripts": {
     "start": "node pro.js",
