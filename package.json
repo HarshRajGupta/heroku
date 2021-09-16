@@ -1,0 +1,16 @@
+{
+  "name": "geeksfiesta",
+  "version": "1.0.0",
+  "description": "A web app for ce 20-24\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001bCE\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cbatch",
+  "main": "pro.js",
+  "scripts": {
+    "start": "node pro.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
